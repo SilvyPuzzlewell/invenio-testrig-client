@@ -1,0 +1,202 @@
+[
+  {
+    "hash": "954ba3f6",
+    "message": "\ud83d\udce6 release: v26.1.0"
+  },
+  {
+    "hash": "64ec5cd3",
+    "message": "feat(moderation): handle `actor_id` and `note` in user block callback"
+  },
+  {
+    "hash": "f0ce5b6e",
+    "message": "fix(components): handle tombstone `removed_by` value"
+  },
+  {
+    "hash": "8dd60aef",
+    "message": "\ud83d\udce6 release: v26.0.1"
+  },
+  {
+    "hash": "a24a6758",
+    "message": "i18n: replace .format() with %-style"
+  },
+  {
+    "hash": "db9bb4a7",
+    "message": "release: v26.0.0"
+  },
+  {
+    "hash": "c05205b2",
+    "message": "fix(collections): rename endpoint for community collections trees"
+  },
+  {
+    "hash": "f9ce365c",
+    "message": "collections: add feature flag to enable/disable collections"
+  },
+  {
+    "hash": "2543646d",
+    "message": "collections: add template for UI"
+  },
+  {
+    "hash": "f4f8606e",
+    "message": "feat(communities): add CollectionsPermissionPolicy and support namespace_id in generators"
+  },
+  {
+    "hash": "fd561e32",
+    "message": "collections: remove collections CRDU UI"
+  },
+  {
+    "hash": "2cb75d14",
+    "message": "collections: improve modals"
+  },
+  {
+    "hash": "5d492ed1",
+    "message": "collections: add limits to categories and collections"
+  },
+  {
+    "hash": "80aebef8",
+    "message": "collections: Rework the UI to match the browse page"
+  },
+  {
+    "hash": "2ddd597b",
+    "message": "feat: adds collection CRUD ui"
+  },
+  {
+    "hash": "c94adef4",
+    "message": "InvitationsModal: De-emphasize search by email"
+  },
+  {
+    "hash": "eb5bdbae",
+    "message": "chore(mshp-req): tweak cancel membership request test"
+  },
+  {
+    "hash": "8af3d94b",
+    "message": "feat(mshp-req): extract and redirect to self_html of membership request on frontend"
+  },
+  {
+    "hash": "696715d2",
+    "message": "feat(mshp-req): generate self_html link for MembershipRequest"
+  },
+  {
+    "hash": "348cb162",
+    "message": "release: v25.0.0"
+  },
+  {
+    "hash": "f6fe44df",
+    "message": "change(setup): upgrade invenio-vocabularies"
+  },
+  {
+    "hash": "f06a26f4",
+    "message": "release: v24.0.1"
+  },
+  {
+    "hash": "73139b23",
+    "message": "fix(alembic): correct `down_revision` of group notifications migration"
+  },
+  {
+    "hash": "a3f67a07",
+    "message": "feat(mshp-req): only show membership request/discussion button if feature enabled [+]"
+  },
+  {
+    "hash": "7d4ae17b",
+    "message": "feat(mshp-req): show button of membership discussion on header if applicable"
+  },
+  {
+    "hash": "ae4f32a1",
+    "message": "feat(mshp-req): update can_request_membership permission"
+  },
+  {
+    "hash": "3e5c4073",
+    "message": "feat(mshp-req): default communities to be closed to membership requests"
+  },
+  {
+    "hash": "ee404874",
+    "message": "release: v24.0.0"
+  },
+  {
+    "hash": "d539476a",
+    "message": "groups: add group notifications"
+  },
+  {
+    "hash": "54e15ec5",
+    "message": "release: v23.1.0"
+  },
+  {
+    "hash": "494a388b",
+    "message": "fix(tests): add files.enabled to subcommunity request"
+  },
+  {
+    "hash": "50acf710",
+    "message": "feat(facets): register overriden range facet element"
+  },
+  {
+    "hash": "5cda1f3f",
+    "message": "fix : Size error on community image upload doesn't go away after image replaced"
+  },
+  {
+    "hash": "00102b5e",
+    "message": "build(deps-dev): bump lodash"
+  },
+  {
+    "hash": "c877d827",
+    "message": "release: v23.0.0"
+  },
+  {
+    "hash": "f993a96d",
+    "message": "fix(tests): remove not existing route"
+  },
+  {
+    "hash": "e028799b",
+    "message": "fix(tests): add mocks"
+  },
+  {
+    "hash": "25dadad5",
+    "message": "chore(setup): bump dependencies"
+  },
+  {
+    "hash": "cb1a1fdc",
+    "message": "chore(black): update formatting to >= 26.0"
+  },
+  {
+    "hash": "f36a4abc",
+    "message": "fix: DeprecationWarning"
+  },
+  {
+    "hash": "daf22715",
+    "message": "fix: remove RemovedInMarshmallow4Warning"
+  },
+  {
+    "hash": "d1fb1887",
+    "message": "fix(chore): DeprecationWarning stdlib"
+  },
+  {
+    "hash": "b27be1d0",
+    "message": "refactor: migrate to context_schema"
+  },
+  {
+    "hash": "257a4aed",
+    "message": "refactor(schema): remove usage of object_key"
+  },
+  {
+    "hash": "edf05fa1",
+    "message": "fix(black): fix style to meet Black 26 standard"
+  },
+  {
+    "hash": "ade033b4",
+    "message": "release: v22.0.0"
+  },
+  {
+    "hash": "f1099733",
+    "message": "chore(setup): bump major version of invenio-requests"
+  },
+  {
+    "hash": "bf38ec56",
+    "message": "release: v21.2.0"
+  },
+  {
+    "hash": "07131d85",
+    "message": "fix(tests): add lock/unlock links and remove reviewers field when disabled"
+  },
+  {
+    "hash": "61d27ff0",
+    "message": "fix: add timeline_focused to tests"
+  }
+]

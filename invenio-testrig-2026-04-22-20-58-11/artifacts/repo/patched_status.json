@@ -1,0 +1,34 @@
+{
+  "dependencies": [],
+  "package": {
+    "github_entry": {
+      "_extra": {},
+      "default_branch": null,
+      "exclude": [],
+      "extras": [],
+      "freeze": [],
+      "include": [],
+      "install": [],
+      "org": "",
+      "package_map": {},
+      "slow_packages": {},
+      "test": []
+    },
+    "patched_reference": null,
+    "patches": [],
+    "reference": {
+      "actual_version": "24.3.0",
+      "base": null,
+      "branch": "master",
+      "commit": "e6fc14f9207c8e8f55da07df78745ad21e9bface",
+      "commits_from_version": [],
+      "org": "zenodo",
+      "package": "zenodo-rdm",
+      "pr": null,
+      "pr_info": null,
+      "repo": "zenodo-rdm"
+    },
+    "unpatched_reference": null
+  },
+  "status": "skipped"
+}
